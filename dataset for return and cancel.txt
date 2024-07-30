@@ -1,0 +1,4 @@
+RETURN THE PRODUCT:please enter the reason .
+DAMAGE :ok the delivery person will be assigned to retrieve the product,thank you.
+CANCEL THE ORDER:please enter the reason .
+LOW IN COST:ok,your order is canceled.
